@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello World!, I'm Dio Riza Maula 
+# Welcome!, I'm Dio Riza Maula 
 
 <!--I'm from Indonesia.<br>
 Currently I am studying at Banyuwangi State Polytechnic<br>
