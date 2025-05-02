@@ -93,7 +93,7 @@ How to reach me? Reach me at diomaula10@gmail.com 📩
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diomaula/diomaula/output/pacman-contribution-graph.svg">
 </picture>-->
 
-#
+***
  ![](https://nirzak-streak-stats.vercel.app/?user=diomaula&theme=dark&hide_border=true)<br><br>
 
 <!--## 📊 GitHub Stats:-->
