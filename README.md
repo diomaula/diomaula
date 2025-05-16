@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=diomaula&color=blue" alt="Profile views"/>
 </div>
 
-
 <div align="center">
   
 # Hello!, I'm Dio Riza Maula 
