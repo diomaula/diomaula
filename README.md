@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
+
+Welcome to my GitHub repository! 
   
-# Hello!, I'm Dio Riza Maula 
+# I'm Dio Riza Maula 
 
 <!--I'm from Indonesia.<br>
 Currently I am studying at Banyuwangi State Polytechnic<br>
