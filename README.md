@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Welcome to my GitHub repository! 
+<!--Welcome to my GitHub repository!--> 
   
 # I'm Dio Riza Maula 
 
