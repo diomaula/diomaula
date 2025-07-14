@@ -6,7 +6,7 @@
 
 Welcome to my GitHub repository!
   
-# I'm Dio Riza Maula 
+# Hello, I'm Dio Riza Maula 
 
 <!--I'm from Indonesia.<br>
 Currently I am studying at Banyuwangi State Polytechnic<br>
