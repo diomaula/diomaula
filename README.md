@@ -4,8 +4,6 @@
 
 <div align="center">
 
-
-  
 # Hello, I'm Dio Riza Maula 
 
 <!--I'm from Indonesia.<br>
