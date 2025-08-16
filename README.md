@@ -74,7 +74,7 @@ How to reach me? Reach me at diomaula10@gmail.com 📩
 </div><!-->
 
 
-#
+<!--#-->
 
 <div style="display: flex; align-items: center; gap: 4rem;">
   <img height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" /> <br>
