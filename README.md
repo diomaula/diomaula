@@ -98,7 +98,6 @@ How to reach me? Reach me at diomaula10@gmail.com 📩
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diomaula&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
