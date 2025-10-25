@@ -70,7 +70,7 @@ How to reach me? Reach me at diomaula10@gmail.com 📩
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="trello logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-</div><!-->
+</div> <!-->
 
 <!--#-->
 
